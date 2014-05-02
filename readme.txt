@@ -19,7 +19,8 @@ Download the Game files in the same structure they are in the folder.
 Run the game by using GameOmega.bat file
 
 Links to source code files and tutorials can be found at: https://github.com/Cheyrenne
-
+For the tutorials that include code, KEEP THE FILES/FOLDERS WITHIN THE FOLDER THAT
+THE REST OF THE FULL GAME FILES ARE IN
 
 Imported Modules: Pygame
 
